@@ -13,3 +13,6 @@
 </p>
   
 
+
+- This project is designed to create a simple Pong game using the Unity game engine.
+ 
